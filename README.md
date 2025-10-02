@@ -1,4 +1,4 @@
-# AI-Agentic-Design-Patterns-with-AutoGen
+# AI Agentic Design Patterns with AutoGen
 
 Welcome to **[AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)**, a course designed to teach you how to build and customize sophisticated multi-agent systems. Using AutoGen, a powerful open-source framework from Microsoft, you will move beyond single large language models (LLMs) and learn to create collaborative teams of AI agents. Each agent can be assigned a unique role, enabling them to work together to solve complex problems, from generating creative content to performing detailed financial analysis. This course provides a hands-on journey through the most effective design patterns for orchestrating these agentic workflows, empowering you to build more capable and autonomous AI applications.
 
